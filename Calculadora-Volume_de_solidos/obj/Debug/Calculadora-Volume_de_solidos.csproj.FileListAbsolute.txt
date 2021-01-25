@@ -1,0 +1,16 @@
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\CalcVS\Calculadora-Volume_de_solidos\bin\Debug\Calculadora-Volume_de_solidos.exe.config
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\CalcVS\Calculadora-Volume_de_solidos\bin\Debug\Calculadora-Volume_de_solidos.exe
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\CalcVS\Calculadora-Volume_de_solidos\bin\Debug\Calculadora-Volume_de_solidos.pdb
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\CalcVS\Calculadora-Volume_de_solidos\obj\Debug\Calculadora-Volume_de_solidos.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\CalcVS\Calculadora-Volume_de_solidos\obj\Debug\Calculadora_Volume_de_solidos.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\CalcVS\Calculadora-Volume_de_solidos\obj\Debug\Calculadora-Volume_de_solidos.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\CalcVS\Calculadora-Volume_de_solidos\obj\Debug\Calculadora-Volume_de_solidos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\CalcVS\Calculadora-Volume_de_solidos\obj\Debug\Calculadora-Volume_de_solidos.exe
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\CalcVS\Calculadora-Volume_de_solidos\obj\Debug\Calculadora-Volume_de_solidos.pdb
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\CalcVS\Calculadora-Volume_de_solidos\obj\Debug\Calculadora_Volume_de_solidos.Cilindro.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\CalcVS\Calculadora-Volume_de_solidos\obj\Debug\Calculadora_Volume_de_solidos.Cone.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\CalcVS\Calculadora-Volume_de_solidos\obj\Debug\Calculadora_Volume_de_solidos.cubo.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\CalcVS\Calculadora-Volume_de_solidos\obj\Debug\Calculadora_Volume_de_solidos.Esfera.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\CalcVS\Calculadora-Volume_de_solidos\obj\Debug\Calculadora_Volume_de_solidos.Inicio.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\CalcVS\Calculadora-Volume_de_solidos\obj\Debug\Calculadora_Volume_de_solidos.Piramide.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\CalcVS\Calculadora-Volume_de_solidos\obj\Debug\Calculadora_Volume_de_solidos.Prisma.resources
